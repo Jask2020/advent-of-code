@@ -9,6 +9,6 @@ Aim of this project is to implement programming concepts on various puzzles and 
 
 ## Progress:
 
-- [] Day 1: [Report Repair](https://adventofcode.com/2020/day/1)
+- [x] Day 1: [Report Repair](https://adventofcode.com/2020/day/1)
 - [] Day 2: [Password Philosophy](https://adventofcode.com/2020/day/2)
 
