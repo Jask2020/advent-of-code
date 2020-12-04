@@ -12,4 +12,5 @@ Aim of this project is to implement programming concepts on various puzzles and 
 - [x] Day 1: [Report Repair](https://adventofcode.com/2020/day/1)
 - [x] Day 2: [Password Philosophy](https://adventofcode.com/2020/day/2)
 - [x] Day 3: [Toboggan Trajectory](https://adventofcode.com/2020/day/3)
+- [x] Day 4: [Passport Processing](https://adventofcode.com/2020/day/4)
 
