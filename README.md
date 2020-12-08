@@ -16,4 +16,5 @@ Aim of this project is to implement programming concepts on various puzzles and 
 - [x] Day 5: [Binary Boarding](https://adventofcode.com/2020/day/5)
 - [x] Day 6: [Custom Customs](https://adventofcode.com/2020/day/6)
 - [x] Day 7: [Handy Haversacks](https://adventofcode.com/2020/day/7)
+- [x] Day 8: [Handheld Halting](https://adventofcode.com/2020/day/8)
 
