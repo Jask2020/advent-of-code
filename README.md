@@ -19,6 +19,6 @@ Aim of this project is to implement programming concepts on various puzzles and 
 - [x] Day 8: [Handheld Halting](https://adventofcode.com/2020/day/8)
 - [x] Day 9: [Encoding Error](https://adventofcode.com/2020/day/9)
 - [x] Day 10: [Adapter Array](https://adventofcode.com/2020/day/10)
-- [ ] Day 11: [Seating System](https://adventofcode.com/2020/day/11)
+- [x] Day 11: [Seating System](https://adventofcode.com/2020/day/11)
 - [x] Day 12: [Rain Risk](https://adventofcode.com/2020/day/12)
 
