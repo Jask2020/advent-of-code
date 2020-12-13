@@ -21,4 +21,5 @@ Aim of this project is to implement programming concepts on various puzzles and 
 - [x] Day 10: [Adapter Array](https://adventofcode.com/2020/day/10)
 - [x] Day 11: [Seating System](https://adventofcode.com/2020/day/11)
 - [x] Day 12: [Rain Risk](https://adventofcode.com/2020/day/12)
+- [x] Day 13: [Shuttle Search](https://adventofcode.com/2020/day/13)
 
