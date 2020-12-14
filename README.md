@@ -24,3 +24,18 @@ Aim of this project is to implement programming concepts on various puzzles and 
 - [x] Day 13: [Shuttle Search](https://adventofcode.com/2020/day/13)
 - [x] Day 14: [Docking Data](https://adventofcode.com/2020/day/14)
 
+Day 1: Solved using a two pointer approach
+Day 2: Solved with string parsing using regular expressions
+Day 3: Hacked together a solution normally, no clever approaches
+Day 4: Solved with string parsing again,, regular expressions made it easy
+Day 5: Solved by maintaining a divided list, could've been done easier just by conversion to binary
+Day 6: Solved again by string parsing
+Day 7: Dictionary solving
+Day 8: Simple problem, did not require much thinking
+Day 9: Contiguous subarray problem, took a while to solve
+Day 10: Solved with normal code and dynamic programming (memoization)
+Day 11: Solved in a brute-forcey way by calculating all time steps. Part 1 could've been done more cleverly by considering an adjacency array instead of manually checking
+Day 12: Vector rotation problem, essentially a velocity/position solution.
+Day 13: Solved using Chinese Remainder Theorem. Another math problem.
+Day 14: Solved using bitmasking and recursion
+
