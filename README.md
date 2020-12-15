@@ -23,6 +23,7 @@ Aim of this project is to implement programming concepts on various puzzles and 
 - [x] Day 12: [Rain Risk](https://adventofcode.com/2020/day/12)
 - [x] Day 13: [Shuttle Search](https://adventofcode.com/2020/day/13)
 - [x] Day 14: [Docking Data](https://adventofcode.com/2020/day/14)
+- [x] Day 15: [Rambunctious Recitation](https://adventofcode.com/2020/day/15) 
 
 Day 1: Solved using a two pointer approach
 
@@ -51,4 +52,6 @@ Day 12: Vector rotation problem, essentially a velocity/position solution.
 Day 13: Solved using Chinese Remainder Theorem. Another math problem.
 
 Day 14: Solved using bitmasking and recursion
+
+Day 15: Solved with just the proper order of indexing and updating. Array solution took O(n) time, so had to use maps for the second part for O(log n) implementation
 
